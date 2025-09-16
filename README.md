@@ -49,4 +49,4 @@
 
 ---
 
-⭐ **Se gosta dos meus projetos, não esqueça de dar uma estrela!** ⭐
+⭐ **Se gostar dos meus projetos, não esqueça de dar uma estrela!** ⭐
