@@ -5,9 +5,9 @@
 ---
 
 ## 💡 Sobre mim  
-👋 Tenho 21 anos e sou estudante de **Engenharia de Software** no 5º semestre pela Universidade Salvador – UNIFACS.  
+👋 Tenho 21 anos e sou estudante de **Engenharia de Software** no 7º semestre pela Universidade Salvador – UNIFACS.  
 🎯 Apaixonado por tecnologia, dados e aprendizado de máquina!  
-📊 Explorando **Machine Learning** e **Ciência de Dados** com Python  
+📊 Explorando **Machine Learning** e **integração com APIs de IA** com Python  
 📌 Criando projetos práticos e compartilhando conhecimento  
 
 ---
