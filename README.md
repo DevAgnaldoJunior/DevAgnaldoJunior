@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 Sobre mim  
+## Sobre mim  
 👋 Tenho 21 anos e sou estudante de **Engenharia de Software** no 8º semestre pela Universidade Salvador – UNIFACS.  
 🎯 Apaixonado por tecnologia, dados e aprendizado de máquina!  
 📊 Explorando **Machine Learning** e **integração com APIs de IA** com Python  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Tecnologias & Ferramentas  
+## Tecnologias & Ferramentas  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
@@ -30,7 +30,7 @@
 
 ---
 
-## 📈 Estatísticas do GitHub  
+## Estatísticas do GitHub  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAgnaldoJunior&show_icons=true&theme=dark"/>
@@ -41,10 +41,10 @@
 
 ---
 
-## 📫 Como me encontrar?  
+## Como me encontrar?  
 
-📧 **Email:** junioragnaldo335@gmail.com  
-💼 **LinkedIn:** [Agnaldo Júnior](https://www.linkedin.com/in/agnaldo-j%C3%BAnior-670949232/)  
+**Email:** junioragnaldo335@gmail.com  
+**LinkedIn:** [Agnaldo Júnior](https://www.linkedin.com/in/agnaldo-j%C3%BAnior-670949232/)  
 
 
 ---
